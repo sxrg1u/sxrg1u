@@ -1,23 +1,19 @@
 # Hey, ich bin Sergiu
 
-Ich bin Lehrling in der IT und baue leidenschaftlich gerne eigene Projekte.  
-Hier dokumentiere ich meinen Weg als Entwickler.
+Ich bin IT-Lehrling in der Schweiz und baue in meiner Freizeit eigene Projekte, um mein Handwerk zu vertiefen. Hier dokumentiere ich meinen Weg als Entwickler.
+
+Portfolio: [sergiu-bolohan.vercel.app](https://sergiu-bolohan.vercel.app)
 
 ## Ausbildung
-- IT-Lehrling | IMST 2 Semester Schweiz
+- IT-Lehrling | IMST, 3. Semester, Schweiz
 
 ## Technologien
 - C# / .NET
 - HTML, CSS, JavaScript
 - Bash / Shell
 
-## Aktuell
-- Vertiefe meine C#-Kenntnisse
-- Baue meine Portfolio-Website weiter aus
-- Lerne sauberes, strukturiertes Coden
-
 ## Kontakt
-- Instagram: [@_sxrgiu_](https://www.instagram.com/_sxrgiu_/) 
-#### E-Mail
+- Instagram: [@sxrgiu](https://www.instagram.com/_sxrgiu_/)
+- Am liebsten über GitHub (Issues/PRs auf meinen Repos)
 - Privat: sergiu.bolohan@outlook.com
 - Schule: sergiu.bolohan@stud.bzbs.ch
